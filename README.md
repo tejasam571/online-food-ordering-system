@@ -1,3 +1,9 @@
+ DOWNLOAD ONLY ZIP FILE  
+ rest all the file is for reference and personal use 
+ 
+
+
+
 1. unzip the folder and save with the same name
 2. save the SQL file in the HT DOX of  XAMPP  folder in C drive of your computer
 3. import the SLQ file to xampp by directing through c drive/xampp/htdoc/SQL file
